@@ -1,0 +1,164 @@
+header{
+    width: 30px;
+    height: 80px;
+    text-align: left;
+    margin-bottom: 20px;
+    align-items: flex-start;
+}
+#header .header-logo img{
+    width:300px;
+}
+#about{
+    width: 100%;
+    height: 60vh;
+    text-align: center;
+}
+.about-header{
+    margin-top: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.about-header h2{
+    font-size: 40px;
+    color: rgb(252, 188, 70);
+    text-align: left;
+}
+.about-header h3{
+    font-size: 25px;
+    color: rgb(56, 54, 51);
+    text-align: left;
+    margin-top: 15px;
+  
+}
+.about-img{
+    margin-top: 30px; 
+    width: 200px;
+}
+.about-btn .btn-outline-warning{
+    font-size: 25px;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 10px;
+    float: left;
+}
+/*--------------------------------------------------------------*/
+#service{
+    width: 100%;
+    height: 100vh;
+    background-color: whitesmoke;
+}
+.service-content h2{
+    font-size: 40px;
+    text-align: center;
+    color: orange;
+   padding-top: 30px;
+}
+.service-content img{
+    border: 2px solid #fff;
+    border-radius: 100px;
+    width: 180px;
+    background-color: white;
+
+ }
+ .service-content .content{
+     text-align: center;
+     background-color: rgb(250, 221, 168);
+    border: 2px solid #fff;
+    border-radius: 0px;
+    margin-top: -80px;
+    padding: 20px;
+    width: 300px;
+    height: 400px;
+    font-size: 20px;
+ }
+ /*--------------------------------------------------------*/
+ #description{
+    width: 100%;
+    height: 120vh;
+    background-color: #fff;
+ }
+ .description-header h2{
+    font-size: 40px;
+    text-align: center;
+    color: orange;
+   padding-top: 30px;
+}
+.description-content img{
+    border: 2px solid orange;
+    border-radius: 100px;
+    width: 120px;
+    background-color: white;
+    text-align: center;
+    margin-bottom: 20px;
+
+ }
+ .description-content .content{
+   font-size: 18px;
+   text-align: center;
+   margin-top: -80px;
+   background-color: #fff;
+   border: 2px solid orange;;
+   border-radius: 0px;
+   margin-top: -80px;
+   padding: 20px;
+   width: 500px;
+   height: 150px;
+
+}
+/*---------------------------------------------------------------*/
+ #server{
+    width: 100%;
+    height: 80vh;
+    background-color: rgb(253, 188, 68);   
+ } 
+ .server-content h2{
+    font-size: 40px;
+    text-align: center;
+    color: #fff;
+   padding-top: 30px;
+}
+.server-header .server-img img{
+    width: 500px;
+    text-align: center;
+    margin-bottom: 40px;
+
+ }
+ .flag img{
+    border: 2px solid #fff;
+    width: 50px;
+    text-align: left;
+
+ }
+ .flag p{
+     font-size: 14px;
+     color: #fff;
+     text-align: center;
+    
+ }
+ /*--------------------------------------------------------------*/
+ #system{
+    width: 100%;
+    height: 40vh;
+    background-color: whitesmoke;   
+ }
+ .system-header h2{
+    font-size: 40px;
+    text-align: center;
+    color: orange;
+   padding-top: 30px;
+}
+.system-img img{
+    width: 100px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 60px;
+ }
+ .system-img p{
+
+     font-size: 20px;
+     color: orange;
+     text-align: center;
+     margin-left: 60px;
+    margin-right: 60px;
+ }
